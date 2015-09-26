@@ -1,9 +1,18 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
-    "license": "MIT",
+    "name": "openparliamentbe/core",
+    "description": "The core of the OpenParliament.be project.",
+    "license": "AGPL-3.0",
     "type": "project",
+    "support": {
+        "source": "https://github.com/openparliamentbe/core",
+        "issues": "https://github.com/openparliamentbe/core/issues"
+    },
+    "authors": [
+        {
+            "name": "Michaël Lecerf",
+            "email": "michael@estsurinter.net"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "laravel/lumen-framework": "5.1.*",
