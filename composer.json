@@ -1,4 +1,6 @@
 {
+    "name": "openparliamentbe/core",
+    "description": "The core of the OpenParliament.be project.",
     "type": "project",
     "require": {
         "php": ">=5.5.9",
