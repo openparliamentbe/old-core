@@ -1,6 +1,7 @@
 {
     "name": "openparliamentbe/core",
     "description": "The core of the OpenParliament.be project.",
+    "license": "AGPL-3.0",
     "type": "project",
     "require": {
         "php": ">=5.5.9",
